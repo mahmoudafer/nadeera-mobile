@@ -1,0 +1,26 @@
+[2020-04-12 09:55:38.661] [exthost] [info] extension host started
+[2020-04-12 09:55:38.707] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-04-12 09:55:38.707] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-04-12 09:55:38.711] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-04-12 09:55:38.712] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-04-12 09:55:38.727] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-04-12 09:55:38.727] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-04-12 09:55:38.748] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-04-12 09:55:38.748] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-04-12 09:55:38.750] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-04-12 09:55:38.750] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-04-12 09:55:38.752] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-04-12 09:55:38.752] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-04-12 09:55:38.754] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-04-12 09:55:38.754] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/vscode-account/dist/extension.js
+[2020-04-12 09:55:38.756] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2020-04-12 09:55:38.756] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mahmoud/.vscode/extensions/equinusocio.vsc-material-theme-32.5.0/build/material.theme.config
+[2020-04-12 09:55:38.765] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons {"startup":true,"extensionId":{"value":"equinusocio.vsc-material-theme-icons","_lower":"equinusocio.vsc-material-theme-icons"},"activationEvent":"*"}
+[2020-04-12 09:55:38.765] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mahmoud/.vscode/extensions/equinusocio.vsc-material-theme-icons-1.1.4/out/src/extension
+[2020-04-12 09:55:38.774] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.sublime-keybindings {"startup":true,"extensionId":{"value":"ms-vscode.sublime-keybindings","_lower":"ms-vscode.sublime-keybindings"},"activationEvent":"*"}
+[2020-04-12 09:55:38.774] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mahmoud/.vscode/extensions/ms-vscode.sublime-keybindings-4.0.6/out/extension
+[2020-04-12 09:55:38.780] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-04-12 09:55:38.780] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mahmoud/.vscode/extensions/pkief.material-icon-theme-4.0.1/dist/extension
+[2020-04-12 09:55:38.785] [exthost] [info] ExtensionService#_doActivateExtension yokoe.vscode-postfix-go {"startup":true,"extensionId":{"value":"yokoe.vscode-postfix-go","_lower":"yokoe.vscode-postfix-go"},"activationEvent":"*"}
+[2020-04-12 09:55:38.785] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mahmoud/.vscode/extensions/yokoe.vscode-postfix-go-0.0.12/out/src/extension
+[2020-04-12 09:55:38.808] [exthost] [info] eager extensions activated

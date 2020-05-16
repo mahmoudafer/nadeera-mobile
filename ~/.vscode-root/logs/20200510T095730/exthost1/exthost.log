@@ -1,0 +1,381 @@
+[2020-05-10 09:57:34.382] [exthost] [info] extension host started
+[2020-05-10 09:57:34.700] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2020-05-10 09:57:34.706] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-05-10 09:57:34.843] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css {"startup":false,"extensionId":{"value":"ecmel.vscode-html-css","_lower":"ecmel.vscode-html-css"},"activationEvent":"onLanguage:javascript"}
+[2020-05-10 09:57:34.843] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mahmoud/.vscode/extensions/ecmel.vscode-html-css-0.2.3/dist/extension
+[2020-05-10 09:57:35.067] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-05-10 09:57:35.067] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-05-10 09:57:35.141] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-05-10 09:57:35.141] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-05-10 09:57:35.165] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-05-10 09:57:35.165] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-05-10 09:57:35.253] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-05-10 09:57:35.253] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-05-10 09:57:35.273] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-05-10 09:57:35.273] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-05-10 09:57:35.276] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-05-10 09:57:35.276] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-05-10 09:57:35.279] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-05-10 09:57:35.279] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/vscode-account/dist/extension.js
+[2020-05-10 09:57:35.292] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2020-05-10 09:57:35.292] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mahmoud/.vscode/extensions/equinusocio.vsc-material-theme-32.6.0/build/material.theme.config
+[2020-05-10 09:57:35.301] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons {"startup":true,"extensionId":{"value":"equinusocio.vsc-material-theme-icons","_lower":"equinusocio.vsc-material-theme-icons"},"activationEvent":"*"}
+[2020-05-10 09:57:35.301] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mahmoud/.vscode/extensions/equinusocio.vsc-material-theme-icons-1.1.4/out/src/extension
+[2020-05-10 09:57:35.314] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.sublime-keybindings {"startup":true,"extensionId":{"value":"ms-vscode.sublime-keybindings","_lower":"ms-vscode.sublime-keybindings"},"activationEvent":"*"}
+[2020-05-10 09:57:35.314] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mahmoud/.vscode/extensions/ms-vscode.sublime-keybindings-4.0.7/out/extension
+[2020-05-10 09:57:35.320] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-05-10 09:57:35.320] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mahmoud/.vscode/extensions/pkief.material-icon-theme-4.1.0/dist/extension
+[2020-05-10 09:57:35.341] [exthost] [info] ExtensionService#_doActivateExtension yokoe.vscode-postfix-go {"startup":true,"extensionId":{"value":"yokoe.vscode-postfix-go","_lower":"yokoe.vscode-postfix-go"},"activationEvent":"*"}
+[2020-05-10 09:57:35.341] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mahmoud/.vscode/extensions/yokoe.vscode-postfix-go-0.0.12/out/src/extension
+[2020-05-10 09:57:36.642] [exthost] [info] eager extensions activated
+[2020-05-10 09:57:39.952] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2020-05-10 09:57:39.952] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2020-05-10 10:26:55.265] [exthost] [info] [vscode.typescript-language-features] UNSAVE result from 'resolveCompletionItem', extension SHOULD NOT change any of: additionalTextEdits, or command
+[2020-05-10 11:07:29.044] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-10 11:07:29.049] [exthost] [error] Error: <semantic> TypeScript Server Error (3.8.3)
+Debug Failure. False expression: Token end is child end
+Error: Debug Failure. False expression: Token end is child end
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122170:34)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122106:21
+    at visitNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18281:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18366:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122105:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122176:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122239:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122108:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18286:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18460:24)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122105:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122176:21)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122106:21
+    at visitNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18281:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18368:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122105:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122176:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122239:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122108:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18286:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18460:24)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122105:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122176:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122239:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122108:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18286:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18458:24)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122105:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122176:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122239:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122108:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18286:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18474:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122105:20)
+    at formatSpanWorker (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121920:17)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121884:140
+    at Object.getFormattingScanner (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:120526:23)
+    at Object.formatNodeGivenIndentation (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121884:31)
+    at getFormattedTextOfNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124037:45)
+    at format (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124009:52)
+    at computeNewText (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124012:23)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123982:89
+    at Array.map (<anonymous>)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123981:50
+    at Array.map (<anonymous>)
+    at Object.getTextChangesFromChanges (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123967:86)
+    at ChangeTracker.getChanges (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123935:45)
+    at Function.ChangeTracker.with (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123414:32)
+    at Object.getCodeActions (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130388:64)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124540:77
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:465:25)
+    at Object.getFixes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124540:23)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:135666:35
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:465:25)
+    at Proxy.getCodeFixesAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:135664:23)
+    at IOSession.Session.getCodeFixes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145753:64)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144510:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:88
+    at IOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145994:28)
+    at IOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:33)
+    at IOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146027:35)
+    at Interface.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147342:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:52449)
+	at e.dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:222369)
+	at e.dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:221287)
+	at /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:220763
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at t.Reader.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229425)
+	at Socket.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229073)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-05-10 11:07:30.013] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-10 11:07:30.013] [exthost] [error] Error: <semantic> TypeScript Server Error (3.8.3)
+Debug Failure. False expression: Token end is child end
+Error: Debug Failure. False expression: Token end is child end
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122170:34)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122106:21
+    at visitNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18281:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18366:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122105:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122176:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122239:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122108:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18286:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18460:24)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122105:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122176:21)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122106:21
+    at visitNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18281:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18368:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122105:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122176:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122239:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122108:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18286:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18460:24)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122105:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122176:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122239:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122108:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18286:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18458:24)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122105:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122176:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122239:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122108:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18286:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18474:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122105:20)
+    at formatSpanWorker (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121920:17)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121884:140
+    at Object.getFormattingScanner (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:120526:23)
+    at Object.formatNodeGivenIndentation (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121884:31)
+    at getFormattedTextOfNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124037:45)
+    at format (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124009:52)
+    at computeNewText (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124012:23)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123982:89
+    at Array.map (<anonymous>)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123981:50
+    at Array.map (<anonymous>)
+    at Object.getTextChangesFromChanges (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123967:86)
+    at ChangeTracker.getChanges (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123935:45)
+    at Function.ChangeTracker.with (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123414:32)
+    at Object.getCodeActions (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130388:64)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124540:77
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:465:25)
+    at Object.getFixes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124540:23)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:135666:35
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:465:25)
+    at Proxy.getCodeFixesAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:135664:23)
+    at IOSession.Session.getCodeFixes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145753:64)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144510:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:88
+    at IOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145994:28)
+    at IOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:33)
+    at IOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146027:35)
+    at Interface.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147342:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:52449)
+	at e.dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:222369)
+	at e.dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:221287)
+	at /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:220763
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at t.Reader.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229425)
+	at Socket.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229073)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-05-10 11:07:31.046] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-10 11:07:31.046] [exthost] [error] Error: <semantic> TypeScript Server Error (3.8.3)
+Debug Failure. False expression: Token end is child end
+Error: Debug Failure. False expression: Token end is child end
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122170:34)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122106:21
+    at visitNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18281:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18366:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122105:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122176:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122239:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122108:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18286:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18460:24)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122105:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122176:21)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122106:21
+    at visitNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18281:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18368:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122105:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122176:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122239:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122108:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18286:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18460:24)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122105:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122176:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122239:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122108:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18286:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18458:24)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122105:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122176:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122239:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122108:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18286:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18474:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122105:20)
+    at formatSpanWorker (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121920:17)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121884:140
+    at Object.getFormattingScanner (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:120526:23)
+    at Object.formatNodeGivenIndentation (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121884:31)
+    at getFormattedTextOfNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124037:45)
+    at format (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124009:52)
+    at computeNewText (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124012:23)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123982:89
+    at Array.map (<anonymous>)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123981:50
+    at Array.map (<anonymous>)
+    at Object.getTextChangesFromChanges (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123967:86)
+    at ChangeTracker.getChanges (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123935:45)
+    at Function.ChangeTracker.with (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123414:32)
+    at Object.getCodeActions (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130388:64)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124540:77
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:465:25)
+    at Object.getFixes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124540:23)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:135666:35
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:465:25)
+    at Proxy.getCodeFixesAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:135664:23)
+    at IOSession.Session.getCodeFixes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145753:64)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144510:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:88
+    at IOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145994:28)
+    at IOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:33)
+    at IOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146027:35)
+    at Interface.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147342:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:52449)
+	at e.dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:222369)
+	at e.dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:221287)
+	at /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:220763
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at t.Reader.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229425)
+	at Socket.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229073)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-05-10 11:07:33.592] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-10 11:07:33.593] [exthost] [error] Error: <semantic> TypeScript Server Error (3.8.3)
+Debug Failure. False expression: Token end is child end
+Error: Debug Failure. False expression: Token end is child end
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122170:34)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122106:21
+    at visitNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18281:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18366:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122105:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122176:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122239:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122108:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18286:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18460:24)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122105:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122176:21)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122106:21
+    at visitNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18281:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18368:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122105:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122176:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122239:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122108:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18286:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18460:24)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122105:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122176:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122239:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122108:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18286:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18458:24)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122105:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122176:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122239:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122108:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18286:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:18474:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122105:20)
+    at formatSpanWorker (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121920:17)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121884:140
+    at Object.getFormattingScanner (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:120526:23)
+    at Object.formatNodeGivenIndentation (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121884:31)
+    at getFormattedTextOfNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124037:45)
+    at format (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124009:52)
+    at computeNewText (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124012:23)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123982:89
+    at Array.map (<anonymous>)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123981:50
+    at Array.map (<anonymous>)
+    at Object.getTextChangesFromChanges (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123967:86)
+    at ChangeTracker.getChanges (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123935:45)
+    at Function.ChangeTracker.with (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123414:32)
+    at Object.getCodeActions (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130388:64)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124540:77
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:465:25)
+    at Object.getFixes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124540:23)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:135666:35
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:465:25)
+    at Proxy.getCodeFixesAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:135664:23)
+    at IOSession.Session.getCodeFixes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145753:64)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144510:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:88
+    at IOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145994:28)
+    at IOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:33)
+    at IOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146027:35)
+    at Interface.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147342:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:52449)
+	at e.dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:222369)
+	at e.dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:221287)
+	at /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:220763
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at t.Reader.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229425)
+	at Socket.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229073)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)

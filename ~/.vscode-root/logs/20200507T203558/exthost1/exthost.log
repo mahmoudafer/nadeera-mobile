@@ -1,0 +1,182 @@
+[2020-05-07 20:36:00.908] [exthost] [info] extension host started
+[2020-05-07 20:36:00.962] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2020-05-07 20:36:00.963] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2020-05-07 20:36:00.990] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2020-05-07 20:36:00.991] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2020-05-07 20:36:01.050] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2020-05-07 20:36:01.050] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2020-05-07 20:36:01.128] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2020-05-07 20:36:01.128] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/main
+[2020-05-07 20:36:01.136] [exthost] [info] ExtensionService#_doActivateExtension eg2.vscode-npm-script {"startup":false,"extensionId":{"value":"eg2.vscode-npm-script","_lower":"eg2.vscode-npm-script"},"activationEvent":"onLanguage:json"}
+[2020-05-07 20:36:01.137] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mahmoud/.vscode/extensions/eg2.vscode-npm-script-0.3.11/dist/extension
+[2020-05-07 20:36:01.139] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2020-05-07 20:36:01.139] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain
+[2020-05-07 20:36:01.156] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onLanguage:css"}
+[2020-05-07 20:36:01.157] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-05-07 20:36:01.183] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:typescript"}
+[2020-05-07 20:36:01.183] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-05-07 20:36:01.222] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css {"startup":false,"extensionId":{"value":"ecmel.vscode-html-css","_lower":"ecmel.vscode-html-css"},"activationEvent":"onLanguage:typescript"}
+[2020-05-07 20:36:01.222] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mahmoud/.vscode/extensions/ecmel.vscode-html-css-0.2.3/dist/extension
+[2020-05-07 20:36:01.366] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-05-07 20:36:01.367] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-05-07 20:36:01.399] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-05-07 20:36:01.399] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-05-07 20:36:01.502] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-05-07 20:36:01.502] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-05-07 20:36:01.509] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-05-07 20:36:01.510] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-05-07 20:36:01.516] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-05-07 20:36:01.516] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-05-07 20:36:01.518] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-05-07 20:36:01.518] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/vscode-account/dist/extension.js
+[2020-05-07 20:36:01.527] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2020-05-07 20:36:01.527] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mahmoud/.vscode/extensions/equinusocio.vsc-material-theme-32.6.0/build/material.theme.config
+[2020-05-07 20:36:01.549] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons {"startup":true,"extensionId":{"value":"equinusocio.vsc-material-theme-icons","_lower":"equinusocio.vsc-material-theme-icons"},"activationEvent":"*"}
+[2020-05-07 20:36:01.550] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mahmoud/.vscode/extensions/equinusocio.vsc-material-theme-icons-1.1.4/out/src/extension
+[2020-05-07 20:36:01.566] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.sublime-keybindings {"startup":true,"extensionId":{"value":"ms-vscode.sublime-keybindings","_lower":"ms-vscode.sublime-keybindings"},"activationEvent":"*"}
+[2020-05-07 20:36:01.566] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mahmoud/.vscode/extensions/ms-vscode.sublime-keybindings-4.0.7/out/extension
+[2020-05-07 20:36:01.575] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-05-07 20:36:01.575] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mahmoud/.vscode/extensions/pkief.material-icon-theme-4.1.0/dist/extension
+[2020-05-07 20:36:01.589] [exthost] [info] ExtensionService#_doActivateExtension yokoe.vscode-postfix-go {"startup":true,"extensionId":{"value":"yokoe.vscode-postfix-go","_lower":"yokoe.vscode-postfix-go"},"activationEvent":"*"}
+[2020-05-07 20:36:01.589] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mahmoud/.vscode/extensions/yokoe.vscode-postfix-go-0.0.12/out/src/extension
+[2020-05-07 20:36:01.618] [exthost] [info] eager extensions activated
+[2020-05-07 20:36:12.223] [exthost] [info] extension host started
+[2020-05-07 20:36:12.245] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-05-07 20:36:12.245] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-05-07 20:36:12.248] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-05-07 20:36:12.248] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-05-07 20:36:12.270] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-05-07 20:36:12.270] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-05-07 20:36:12.311] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-05-07 20:36:12.311] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-05-07 20:36:12.315] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-05-07 20:36:12.315] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-05-07 20:36:12.317] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-05-07 20:36:12.317] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-05-07 20:36:12.318] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-05-07 20:36:12.318] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/vscode-account/dist/extension.js
+[2020-05-07 20:36:12.322] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2020-05-07 20:36:12.322] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mahmoud/.vscode/extensions/equinusocio.vsc-material-theme-32.6.0/build/material.theme.config
+[2020-05-07 20:36:12.329] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons {"startup":true,"extensionId":{"value":"equinusocio.vsc-material-theme-icons","_lower":"equinusocio.vsc-material-theme-icons"},"activationEvent":"*"}
+[2020-05-07 20:36:12.329] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mahmoud/.vscode/extensions/equinusocio.vsc-material-theme-icons-1.1.4/out/src/extension
+[2020-05-07 20:36:12.335] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.sublime-keybindings {"startup":true,"extensionId":{"value":"ms-vscode.sublime-keybindings","_lower":"ms-vscode.sublime-keybindings"},"activationEvent":"*"}
+[2020-05-07 20:36:12.335] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mahmoud/.vscode/extensions/ms-vscode.sublime-keybindings-4.0.7/out/extension
+[2020-05-07 20:36:12.339] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-05-07 20:36:12.339] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mahmoud/.vscode/extensions/pkief.material-icon-theme-4.1.0/dist/extension
+[2020-05-07 20:36:12.350] [exthost] [info] ExtensionService#_doActivateExtension yokoe.vscode-postfix-go {"startup":true,"extensionId":{"value":"yokoe.vscode-postfix-go","_lower":"yokoe.vscode-postfix-go"},"activationEvent":"*"}
+[2020-05-07 20:36:12.350] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mahmoud/.vscode/extensions/yokoe.vscode-postfix-go-0.0.12/out/src/extension
+[2020-05-07 20:36:12.731] [exthost] [info] eager extensions activated
+[2020-05-07 20:36:13.357] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2020-05-07 20:36:13.357] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-05-07 20:36:13.368] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css {"startup":false,"extensionId":{"value":"ecmel.vscode-html-css","_lower":"ecmel.vscode-html-css"},"activationEvent":"onLanguage:javascript"}
+[2020-05-07 20:36:13.368] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mahmoud/.vscode/extensions/ecmel.vscode-html-css-0.2.3/dist/extension
+[2020-05-07 20:36:23.662] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2020-05-07 20:36:23.662] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2020-05-07 20:37:10.918] [exthost] [info] [vscode.typescript-language-features] UNSAVE result from 'resolveCompletionItem', extension SHOULD NOT change any of: additionalTextEdits, or command
+[2020-05-07 20:37:12.508] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 20:37:12.510] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 20:37:13.267] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 20:37:13.268] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 20:38:03.981] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 20:38:03.982] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 20:38:07.726] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 20:38:07.726] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 20:38:16.842] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 20:38:16.842] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 20:40:22.523] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 20:40:22.524] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 20:40:25.524] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 20:40:25.524] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 20:40:41.595] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 20:40:41.595] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 20:40:56.771] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 20:40:56.772] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 20:40:57.572] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 20:40:57.572] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 20:41:16.636] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 20:41:16.636] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 20:43:00.427] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 20:43:00.427] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 20:43:09.969] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 20:43:09.969] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 21:32:46.158] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 21:32:46.158] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 21:34:15.032] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 21:34:15.033] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 21:35:08.263] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 21:35:08.263] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 21:35:12.227] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 21:35:12.227] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 21:35:41.120] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 21:35:41.120] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 21:36:29.202] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 21:36:29.202] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 21:37:10.198] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 21:37:10.198] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 21:37:43.881] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 21:37:43.881] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 21:37:46.378] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 21:37:46.378] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 21:37:49.514] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 21:37:49.514] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 21:37:58.665] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 21:37:58.665] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 21:38:07.990] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 21:38:07.990] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 21:38:55.998] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 21:38:55.998] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 21:39:16.231] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 21:39:16.231] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 21:39:33.947] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 21:39:33.947] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 21:40:16.613] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 21:40:16.613] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 21:40:17.905] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 21:40:17.905] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 21:40:22.997] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 21:40:22.998] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 21:40:36.081] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 21:40:36.081] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 21:55:09.213] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 21:55:09.213] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 22:23:45.941] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-05-07 22:23:45.942] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2020-05-07 22:27:17.757] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 22:27:17.757] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-07 22:28:39.517] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-07 22:28:39.517] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)

@@ -1,0 +1,135 @@
+[2020-05-10 09:08:26.951] [exthost] [info] extension host started
+[2020-05-10 09:08:27.100] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2020-05-10 09:08:27.101] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2020-05-10 09:08:27.169] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:typescript"}
+[2020-05-10 09:08:27.169] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-05-10 09:08:27.238] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css {"startup":false,"extensionId":{"value":"ecmel.vscode-html-css","_lower":"ecmel.vscode-html-css"},"activationEvent":"onLanguage:typescript"}
+[2020-05-10 09:08:27.239] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mahmoud/.vscode/extensions/ecmel.vscode-html-css-0.2.3/dist/extension
+[2020-05-10 09:08:27.449] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2020-05-10 09:08:27.450] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2020-05-10 09:08:27.458] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2020-05-10 09:08:27.458] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2020-05-10 09:08:27.537] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2020-05-10 09:08:27.537] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/main
+[2020-05-10 09:08:27.607] [exthost] [info] ExtensionService#_doActivateExtension eg2.vscode-npm-script {"startup":false,"extensionId":{"value":"eg2.vscode-npm-script","_lower":"eg2.vscode-npm-script"},"activationEvent":"onLanguage:json"}
+[2020-05-10 09:08:27.607] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mahmoud/.vscode/extensions/eg2.vscode-npm-script-0.3.11/dist/extension
+[2020-05-10 09:08:27.632] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-05-10 09:08:27.633] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-05-10 09:08:27.643] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-05-10 09:08:27.643] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-05-10 09:08:27.686] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-05-10 09:08:27.687] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-05-10 09:08:27.870] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-05-10 09:08:27.870] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-05-10 09:08:27.927] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-05-10 09:08:27.927] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-05-10 09:08:27.943] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-05-10 09:08:27.943] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-05-10 09:08:27.945] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-05-10 09:08:27.945] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/vscode-account/dist/extension.js
+[2020-05-10 09:08:27.960] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2020-05-10 09:08:27.960] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mahmoud/.vscode/extensions/equinusocio.vsc-material-theme-32.6.0/build/material.theme.config
+[2020-05-10 09:08:28.036] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons {"startup":true,"extensionId":{"value":"equinusocio.vsc-material-theme-icons","_lower":"equinusocio.vsc-material-theme-icons"},"activationEvent":"*"}
+[2020-05-10 09:08:28.036] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mahmoud/.vscode/extensions/equinusocio.vsc-material-theme-icons-1.1.4/out/src/extension
+[2020-05-10 09:08:28.087] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.sublime-keybindings {"startup":true,"extensionId":{"value":"ms-vscode.sublime-keybindings","_lower":"ms-vscode.sublime-keybindings"},"activationEvent":"*"}
+[2020-05-10 09:08:28.087] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mahmoud/.vscode/extensions/ms-vscode.sublime-keybindings-4.0.7/out/extension
+[2020-05-10 09:08:28.097] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-05-10 09:08:28.097] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mahmoud/.vscode/extensions/pkief.material-icon-theme-4.1.0/dist/extension
+[2020-05-10 09:08:28.112] [exthost] [info] ExtensionService#_doActivateExtension yokoe.vscode-postfix-go {"startup":true,"extensionId":{"value":"yokoe.vscode-postfix-go","_lower":"yokoe.vscode-postfix-go"},"activationEvent":"*"}
+[2020-05-10 09:08:28.112] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mahmoud/.vscode/extensions/yokoe.vscode-postfix-go-0.0.12/out/src/extension
+[2020-05-10 09:08:28.724] [exthost] [info] eager extensions activated
+[2020-05-10 09:09:36.354] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-10 09:09:36.358] [exthost] [error] Error: <semantic> TypeScript Server Error (3.8.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:71102:29)
+    at emitNodeList (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:95676:51)
+    at emitList (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:95555:13)
+    at Object.writeList (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:92891:13)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119315:29
+    at Object.mapToDisplayParts (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:107201:13)
+    at itemInfoForParameters (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119312:41)
+    at getSignatureHelpItem (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119278:95)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119251:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119251:36)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118843:23
+    at Object.runWithCancellationToken (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:34552:28)
+    at Object.getSignatureHelpItems (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118841:32)
+    at Proxy.getSignatureHelpItems (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:135509:37)
+    at IOSession.Session.getSignatureHelpItems (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145510:62)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144404:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:88
+    at IOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145994:28)
+    at IOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:33)
+    at IOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146027:35)
+    at Interface.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147342:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:52449)
+	at e.dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:222369)
+	at e.dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:221287)
+	at /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:220763
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at t.Reader.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229425)
+	at Socket.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229073)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-05-10 09:09:36.494] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-10 09:09:36.494] [exthost] [error] Error: <semantic> TypeScript Server Error (3.8.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:71102:29)
+    at emitNodeList (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:95676:51)
+    at emitList (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:95555:13)
+    at Object.writeList (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:92891:13)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119315:29
+    at Object.mapToDisplayParts (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:107201:13)
+    at itemInfoForParameters (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119312:41)
+    at getSignatureHelpItem (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119278:95)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119251:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119251:36)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118843:23
+    at Object.runWithCancellationToken (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:34552:28)
+    at Object.getSignatureHelpItems (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118841:32)
+    at Proxy.getSignatureHelpItems (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:135509:37)
+    at IOSession.Session.getSignatureHelpItems (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145510:62)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144404:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:88
+    at IOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145994:28)
+    at IOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:33)
+    at IOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146027:35)
+    at Interface.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147342:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:52449)
+	at e.dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:222369)
+	at e.dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:221287)
+	at /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:220763
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at t.Reader.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229425)
+	at Socket.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229073)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-05-10 09:09:42.814] [exthost] [info] [vscode.typescript-language-features] UNSAVE result from 'resolveCompletionItem', extension SHOULD NOT change any of: additionalTextEdits, or command
