@@ -57,3 +57,5 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
+~/.vscode-root/Network Persistent State
+~/.vscode-root/Network Persistent State
