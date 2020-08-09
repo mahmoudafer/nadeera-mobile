@@ -22,7 +22,7 @@ import Text from "../components/apptext"
 
 import { connect } from 'react-redux'
 import { bindActionCreators } from 'redux'
-import { setProfile, logout, toggleFavorite, removeScan } from '../redux/actions'
+import { setProfile, logout } from '../redux/actions'
 
 const {width, height} = Dimensions.get('screen')
 
