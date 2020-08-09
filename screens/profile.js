@@ -102,9 +102,7 @@ const styles = StyleSheet.create({
 const mapDispatchToProps = dispatch => (
 	bindActionCreators({
 		setProfile,
-		logout,
-		toggleFavorite,
-		removeScan
+		logout
 	}, dispatch)
 )
 
